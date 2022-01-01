@@ -1,7 +1,7 @@
 # Hi 👋, I'm Robin Maasjosthusmann
 ### A Data Scientist with a strong passion for coding.
 
-- 🔭 I’m currently working on [csv_labeler](https://github.com/RobinMaas95/csv_labeler)
+- 🔭 I’m currently working on [maasjosthusmann.de (repo link)](https://github.com/RobinMaas95/maasjosthusmann.de)
 
 - 🌱 I’m currently learning **neovim**
 
