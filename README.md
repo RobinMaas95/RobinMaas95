@@ -5,7 +5,11 @@
 
 - 🌱 I’m currently learning **neovim**
 
-- :blue_book: Other topics I want to look at are **Golang/Go**, **functional programming (maye F#)** and **Flutter** in combination with **Firebase**
+- :blue_book: Other topics I want to look at are:
+  - Golang/Go, 
+  - NEAT (NeuroEvolution of Augmenting Topologies)
+  - functional programming (maye F#)
+  - Flutter in combination with Firebase
 
 - 👨‍💻 All of my projects are available at [maasjosthusmann.de (WIP)](https://www.maasjosthusmann.de (WIP))
 
