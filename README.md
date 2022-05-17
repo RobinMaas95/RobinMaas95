@@ -1,5 +1,5 @@
 # Hi 👋, I'm Robin Maasjosthusmann
-### A DevOp with a passion for data science.
+### A DevOps Engineer with a passion for data science.
 
 - 🌱 I’m currently learning **neovim**
 
