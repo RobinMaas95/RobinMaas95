@@ -1,5 +1,5 @@
 # Hi 👋, I'm Robin Maasjosthusmann
-### A Data Scientist with a strong passion for coding.
+### A DevOp with a passion for data science.
 
 - 🔭 I’m currently working on [maasjosthusmann.de (repo link)](https://github.com/RobinMaas95/maasjosthusmann.de)
 
@@ -7,9 +7,9 @@
 
 - :blue_book: Other topics I want to look at are:
   - Golang/Go, 
-  - NEAT (NeuroEvolution of Augmenting Topologies)
-  - functional programming (maye F#)
-  - Flutter in combination with Firebase
+  - Azure
+  - Kubernetes
+  - Terraform (still improving...)
 
 - 👨‍💻 All of my projects are available at [maasjosthusmann.de (WIP)](https://www.maasjosthusmann.de (WIP))
 
