@@ -1,8 +1,6 @@
 # Hi 👋, I'm Robin Maasjosthusmann
 ### A DevOp with a passion for data science.
 
-- 🔭 I’m currently working on [maasjosthusmann.de (repo link)](https://github.com/RobinMaas95/maasjosthusmann.de)
-
 - 🌱 I’m currently learning **neovim**
 
 - :blue_book: Other topics I want to look at are:
