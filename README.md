@@ -12,9 +12,7 @@
 - 👨‍💻 All of my projects are available at [maasjosthusmann.de (WIP)](https://www.maasjosthusmann.de (WIP))
 
 - 💬 Ask me about **python**
-
-- 📫 How to reach me **github@maasjosthusmann.de**
-  
+ 
 
 ### Tech-Stack
 ---
@@ -44,13 +42,6 @@
 ### Where to find me
 ---
 <a href="https://www.linkedin.com/in/robin-maasjosthusmann/" rel="some text">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://stackoverflow.com/users/7896101/robin-m" rel="some text">![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</a>
-
-### GitHub Stats
----
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=robinmaas95&show_icons=true&locale=en&layout=compact&theme=dark&card_width=445" alt="robinmaas95" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robinmaas95&theme=dark" alt="robinmaas95" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=robinmaas95&show_icons=true&locale=en&theme=dark&icon_color=fb8c00" alt="robinmaas95" /></p>
 
 
 
