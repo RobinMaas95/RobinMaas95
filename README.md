@@ -5,7 +5,6 @@
 
 - :blue_book: Other topics I want to look at are:
   - Golang/Go, 
-  - Azure
   - Kubernetes
   - Terraform (still improving...)
 
