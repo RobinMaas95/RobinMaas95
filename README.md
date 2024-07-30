@@ -1,12 +1,12 @@
 # Hi 👋, I'm Robin Maasjosthusmann
 ### A DevOps Engineer with a passion for data science.
 
-- 🌱 I’m currently learning **neovim**
+- 🌱 I’m currently learning **Flutter**
 
 - :blue_book: Other topics I want to look at are:
   - Golang/Go, 
   - Kubernetes
-  - Terraform (still improving...)
+  - Rust
 
 - 👨‍💻 All of my projects are available at [maasjosthusmann.de (WIP)](https://www.maasjosthusmann.de (WIP))
 
