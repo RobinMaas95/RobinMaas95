@@ -1,45 +1,25 @@
-# Hi 👋, I'm Robin Maasjosthusmann
-### A DevOps Engineer with a passion for data science.
+# Robin Maasjosthusmann
 
-- 🌱 I’m currently learning **Flutter**
+**Platform & AI Engineer · Independent Consultant · Remote, Germany/EU**
 
-- :blue_book: Other topics I want to look at are:
-  - Golang/Go, 
-  - Kubernetes
-  - Rust
+For ten years I've helped teams build and ship software they can actually run. I specialize in dependable delivery, developer platforms, and infrastructure that survives contact with reality — AI included.
 
-- 👨‍💻 All of my projects are available at [maasjosthusmann.de (WIP)](https://www.maasjosthusmann.de (WIP))
+I work with AI coding agents daily — the speed is yours, the accountability stays mine.
 
-- 💬 Ask me about **python**
- 
+## What I do
 
-### Tech-Stack
----
-#### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+- **Platform Reliability & Delivery** — secure, repeatable delivery from commit to production: reviewable infrastructure, observable systems, clear operating models.
+- **Developer Experience** — development platforms, remote dev environments, PR previews, automation, and documentation.
+- **AI Platform Engineering** — provider integration, access control, cost visibility, and delivery practices where responsibility stays clear.
 
-#### Machine Learning / Deep Learning
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+## Toolbox
 
+Delivery: GitHub Actions, Docker, Terraform, Argo CD, Helm ·
+AI: AWS Bedrock, Vertex AI, custom LLM gateways ·
+Platforms: AWS, GCP, Kubernetes, OpenShift, OpenTelemetry, Prometheus/Grafana/Loki ·
+Languages: Python (primary), Go, Svelte/SvelteKit
 
-#### Version Control
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+## Find me
 
-#### Databases
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### IDEs/Editors
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Jupyter Lab](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
-#### Operating Systems
-![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)![Pop! OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-#### Others
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### Where to find me
----
-<a href="https://www.linkedin.com/in/robin-maasjosthusmann/" rel="some text">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-
-
+- Website: [maasjosthusmann.de](https://www.maasjosthusmann.de)
+- LinkedIn: [robin-maasjosthusmann](https://www.linkedin.com/in/robin-maasjosthusmann/)
