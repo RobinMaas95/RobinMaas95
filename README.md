@@ -11,7 +11,7 @@ Software is ultimately about people and outcomes. I work directly with product a
 
 Understand deeply. Choose deliberately. Deliver in steps.
 
-Every engagement starts with understanding: the subject, the constraints, the technology options. I choose the best fit, and I break even the biggest problem into steps a team can deliver and run. AI coding agents are part of that work and make it considerably faster. What they don't do is take responsibility. Every change that reaches your repository has been read, understood, and defended by me. You get the speed; the accountability stays mine.
+Every engagement starts with understanding: the subject, the constraints, the technology options. I choose the best fit, and I break even the biggest problem into steps a team can deliver and run. AI coding agents are part of that work and make it considerably faster. What they don’t do is take responsibility. Every change that reaches your repository has been read, understood, and defended by me. You get the speed; the accountability stays mine.
 
 ---
 
