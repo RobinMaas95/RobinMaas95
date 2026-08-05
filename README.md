@@ -2,9 +2,9 @@
 
 **Platform & AI Engineer · Independent Consultant · Remote, Germany/EU**
 
-For ten years I've helped teams build and ship software they can actually run. I specialize in dependable delivery, developer platforms, and infrastructure that survives contact with reality — AI included.
+For ten years I’ve helped teams build and ship software they can actually run. I specialize in dependable delivery, developer platforms, and infrastructure that survives contact with reality, AI included.
 
-I work with AI coding agents daily — the speed is yours, the accountability stays mine.
+Software is ultimately about people and outcomes. I work directly with product and platform owners to solve real business problems.
 
 ## What I do
 
